@@ -1,0 +1,1 @@
+http://my-kafka-connect.com/connectors/connector-name/status
